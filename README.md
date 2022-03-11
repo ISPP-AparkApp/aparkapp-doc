@@ -13,7 +13,7 @@
 ## Sprint S1
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  xx/xx/xxxx  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |
+|  11/03/2022 |   :smiley:   |       -       |       -       |       -       |       -       |       -        |   :worried:   |       -       |       -       |       -       |     :smiley:    |   :worried:  |       -       |       -       |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
