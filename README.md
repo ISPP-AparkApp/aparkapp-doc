@@ -16,8 +16,8 @@
 |  11/03/2022 |   :smiley:   |   :worried:   |       -       |       -       |       -       |       :smiley:        |   :worried:   |      :smiley:       |       -       |       -       |     :smiley:    |   :worried:  |       -       |       :smiley:       |
 |  12/03/2022 |     -        |       -       |       -       |       -       |       -       |       :smiley:        |   -   |       :smiley:       |       -       |       -       |     -    |         -        |       :smiley:       |       :smiley:       |
 |  13/03/2022 |     -        |       :fearful:       |       -       |       -       |       -       |       -        |   -   |       :fearful:       |       -       |       -       |     -    |         -        |       :smiley:       |       -       |
-|  14/03/2022 |  :worried:  |       :neutral_face:       |       -       |       -       |       -       |       -        |   -   |       -       |       -       |       -       |     -    |  :worried:    |       -      |       -       |
-|  15/03/2022 | :smiley: |       -       |       -       |       -       |       -       |       -        |   -   |       -       |       -       |       -       |     -    |      :smiley: |       -      |       -       |
+|  14/03/2022 | - |       :neutral_face:       |       -       |       -       |       -       |       -        |   -   |       -       |       -       |       -       |     -    |  -    |       -      |       -       |
+|  15/03/2022 | - |       -       |       -       |       -       |       -       |       -        |   -   |    :smiley:     |       -       |       -       |     -    |    :smiley: |       -      |       -       |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
