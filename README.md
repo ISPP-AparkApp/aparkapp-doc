@@ -11,14 +11,14 @@
 |  02/04/2022  |  :fearful:   (Significa que estoy desesperado, necesito ayuda)  |
 
 ## Sprint S1
-| Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
-| ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  11/03/2022 |   :smiley:   |   :worried:   |       -       |       -       |       -       |       :smiley:        |   :worried:   |      :smiley:       |       -       |       :smiley:       |     :smiley:    |   :worried:  |       -       |       :smiley:       |
-|  12/03/2022 |     -        |       -       |       -       |       -       |       -       |       :smiley:        |   -   |       :smiley:       |       :smiley:       |       :neutral_face:       |     -    |         -        |       :smiley:       |       :smiley:       |
-|  13/03/2022 |     -        |       :fearful:       |       -       |       -       |       -       |       :worried:        |   -   |       :fearful:       |       :smiley:       |       :neutral_face:       |     -    |         -        |       :smiley:       |       -       |
-|  14/03/2022 | - |       :neutral_face:       |       -       |       -       |       -       |       :fearful:        |   -   |      :worried:     |       :smiley:       |       :smiley:       |    :fearful:    |  :worried: |      :smiley:      |       :smiley:       |
-|  15/03/2022 | :smiley: |       :fearful:       |       -       |       -       |       -       |       :neutral_face:        |   -   |    :smiley:     |       :smiley:      |       -       |    :fearful:    |    :smiley: |       :smiley:      |       :smiley:       |
-|  16/03/2022 | - |       :smiley:       |       -       |       -       |       -       |     -        |   -   |    -     |       :smiley:       |       :smiley:       |     :fearful:    |    -       |       :smiley:      |       :smiley:       |
+| Day         |  Jesusjbs   |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug        |  ferherque    |  Javitoox       |  javivm17     |  JJosePP          |  JoseCarlosMorales  |  manmogvil    |  maribelrb22  |  NoSoyDani     |
+| ------------| ------------| ----------------- | ----------- | ------------- | ------------- | ----------------- | ------------- | --------------- | ------------- | ----------------- | ------------------- | ------------- | ------------- | -------------- |
+|  11/03/2022 |   :smiley:  |   :worried:       |      -      |       -       |       -       |   :smiley:        |   :worried:   |    :smiley:     |       -       |    :smiley:       |     :smiley:        |   :worried:   |       -       |   :smiley:     |
+|  12/03/2022 |     -       |       -           |   :smiley:  |       -       |       -       |   :smiley:        |   -           |    :smiley:     |      :smiley: |    :neutral_face: |     -               |         -     |   :smiley:    |   :smiley:     |
+|  13/03/2022 |     -       |   :fearful:       |      -      |       -       |       -       |   :worried:       |   -           |    :fearful:    |      :smiley: |    :neutral_face: |     -               |         -     |   :smiley:    |    -           |
+|  14/03/2022 | -           |   :neutral_face:  |      -      |       -       |       -       |   :fearful:       |   -           |    :worried:    |      :smiley: |    :smiley:       |     :fearful:       |   :worried:   |   :smiley:    |   :smiley:     |
+|  15/03/2022 | :smiley:    |   :fearful:       |   :smiley:  |       -       |       -       |   :neutral_face:  |   -           |    :smiley:     |      :smiley: |       -           |     :fearful:       |   :smiley:    |   :smiley:    |   :smiley:     |
+|  16/03/2022 | -           |   :smiley:        |   :smiley:  |       -       |       -       |      -            |   -           |    -            |      :smiley: |    :smiley:       |     :fearful:       |      -        |   :smiley:    |   :smiley:     |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
@@ -29,3 +29,4 @@
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  xx/xx/xxxx  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |
+
