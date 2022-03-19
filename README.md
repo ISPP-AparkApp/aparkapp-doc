@@ -19,9 +19,9 @@
 |  14/03/2022 | -           |   :neutral_face:  |      -      |       -       |   :worried:    |   :fearful:       | :neutral_face:|    :worried:    |      :smiley: |    :smiley:       |     :fearful:       |   :worried:   |   :smiley:    |   :smiley:     |
 |  15/03/2022 | :smiley:    |   :fearful:       |   :smiley:  |       -       |   :fearful:    |   :neutral_face:  |   -           |    :smiley:     |      :smiley: |       -           |     :fearful:       |   :smiley:    |   :smiley:    |   :smiley:     |
 |  16/03/2022 | :worried:   |   :smiley:        |   :smiley:  |       -       |   :fearful:    |  :neutral_face:   | :neutral_face:|   :worried:     |      :smiley: |    :smiley:       |     :fearful:       |   :worried:   |   :smiley:    |   :smiley:     |
-|  17/03/2022 | -           |   -               |   -         |       -       |   -            |  :smiley:         | -             |   -           |      -          |    -              |     -               |   -            |   :smiley:          |   -     |
-|  18/03/2022 | -           |   -               |   -         |       -       |   -            |  -         | -             |   -           |      -          |    -              |     -          | :neutral_face:    |   :smiley:          |   :neutral_face:     |
-|  19/03/2022 | -           |   -               |   -         |       -       |   -            |  -         | -             |   -           |      -          |    -              |     -          |     -    |   -          |   :neutral_face:     |
+|  17/03/2022 | :neutral_face: |   -               |   -         |       -       |   -            |  :smiley:         | -             |   -           |      -          |    -              |     -               |   -            |   :smiley:          |   -     |
+|  18/03/2022 | :smiley: |   -               |   -         |       -       |   -            |  -         | -             |   -           |      -          |    -              |     -          | :neutral_face:    |   :smiley:          |   :neutral_face:     |
+|  19/03/2022 | :smiley:  |   -               |   -         |       -       |   -            |  -         | -             |   -           |      -          |    -              |     -          |     -    |   -          |   :neutral_face:     |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
