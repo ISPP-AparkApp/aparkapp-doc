@@ -21,8 +21,8 @@
 |  16/03/2022 | :worried:     |   :smiley:        |   :smiley:       |       -       |   :fearful:    |  :neutral_face:   | :neutral_face:|   :worried:     |      :smiley: |    :smiley:       |     :fearful:       |   :worried:   |   :smiley:    |   :smiley:     |
 |  17/03/2022 | :neutral_face:|   -               |   :smiley:       |       -       |   -            |  :smiley:         | -             |   :smiley:         |      -          |    :neutral_face:              |     -               |   -            |   :smiley:          |   -     |
 |  18/03/2022 | :smiley:      |   -               |   :neutral_face: |       -       |   -            |  -         | -             |    :worried:        |      -          |    -              |     -          | :neutral_face:    |   :smiley:          |   :neutral_face:     |
-|  19/03/2022 | :smiley:      |   -               |   :neutral_face: |       -       |   -            |  -         | -             |   :smiley:      |      -          |    :neutral_face:              |     -          |     -    |   -          |   :neutral_face:     |
-|  20/03/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :smiley:       |       -       |       -       |       -       |       -       |
+|  19/03/2022 | :smiley:      |   -               |   :neutral_face: |       -       |   -            | :neutral_face:         | -             |   :smiley:      |      -          |    :neutral_face:              |     -          |     -    |   -          |   :neutral_face:     |
+|  20/03/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
