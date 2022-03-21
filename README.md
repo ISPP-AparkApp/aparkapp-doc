@@ -22,8 +22,8 @@
 |  17/03/2022 | :neutral_face:|   -               |   :smiley:       |       -       |   -            |  :smiley:         | -             |   :smiley:         |      -          |    :neutral_face:              |     -               |   -            |   :smiley:          |   -     |
 |  18/03/2022 | :smiley:      |   -               |   :neutral_face: |       -       |   -            |  -                 | -             |    :worried:        |      -          |    -              |     -          | :neutral_face:    |   :smiley:          |   :neutral_face:     |
 |  19/03/2022 | :smiley:      |   -               |   :neutral_face: |       -       |   -            | :neutral_face:         | -             |   :smiley:      |      -          |    :neutral_face:              |     -          |     -    |   -          |   :neutral_face:     |
-|  20/03/2022  |       -       |       -       |       -       |       -       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |
-|  21/03/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :smiley:      |       -       |
+|  20/03/2022  |       -       |       -       |       -       |       -       |       -       |       :smiley:       |       -       |       :neutral_face:       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |
+|  21/03/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :fearful:      |       -       |       -       |       -       |       -       |       :smiley:      |       -       |
 
 
 ## Sprint S2
