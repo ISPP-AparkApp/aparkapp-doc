@@ -25,7 +25,7 @@
 |  20/03/2022  |       -       |       -          |       -          |  :neutral_face:   |       -       |       :smiley:       |       -       |       :neutral_face:       |       :smiley:        |       :smiley:       |      :neutral_face:    |       -       |       -       |       :smiley:       |
 |  21/03/2022  |   :neutral_face:  |       -          |   :neutral_face: |  :neutral_face:  |       -       |       :smiley:       |       -       |       :fearful:      |      :smiley:       |       -       |       :neutral_face:      |       -       |       :smiley:      |       -       |
 |  22/03/2022  |    :neutral_face:  |       :smiley:  |   :neutral_face: |   :neutral_face:   |       -       |       -       |  :neutral_face:  |       -       |       :smiley:       |       :neutral_face:       |     :neutral_face:     |      :neutral_face:       |       :smiley:     |       :neutral_face:       |
-|  23/03/2022  |    :fearful:       |       -          |       -         |       -         |       -       |       -       |     :worried:     |       -       |       -        |      -             |         -        |      :worried:       |       -          |       -      |
+|  23/03/2022  |    :smiley:       |       -          |       -         |       -         |       -       |       -       |     :worried:     |       -       |       -        |      -             |         -        |      :worried:       |       -          |       -      |
 
 ## Sprint S2
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
