@@ -1,4 +1,4 @@
-# Calendario Niko Niko
+# Calendario Niko Niko (ACTIVA NO WRAP PARA VISUALIZARLO MEJOR AL EDITAR)
 
 ## Ejemplo de uso:
 ### Sprint X 
