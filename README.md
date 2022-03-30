@@ -34,7 +34,7 @@
 |  26/03/2022  |     :smiley:  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |  -            | :neutral_face:|:neutral_face: |       -       |       :smiley:  |       -       |
 |  27/03/2022  |    -          |    :worried:  | :neutral_face:|       -       |       -       |     :smiley:  |       -       |:worried:      | :smiley:      | :neutral_face:|       -       |       -       |       :worried: | :neutral_face:|
 |  28/03/2022  |       -       |    :worried:  |       -       |       -       |       -       |     :smiley:  |       -       |:smiley:       | :smiley:      |       :smiley:|       -       |       -       |       :worried: |  :smiley:     |
-|  29/03/2022  |       -       |       -       |       -       |       -       |       -       |     :smiley:  | :neutral_face:|:fearful:      | :smiley:      |       :smiley:|:neutral_face: |     :smiley:  |       :smiley:  |       -       |
+|  29/03/2022  |    :smiley:  |       -       |       -       |       -       |       -       |     :smiley:  | :neutral_face:|:fearful:      | :smiley:      |       :smiley:|:neutral_face: |     :smiley:  |       :smiley:  |       -       |
 |  30/03/2022  | :neutral_face:| :neutral_face:|    :smiley:   |       -       |       -       |     :smiley:  | :neutral_face:|:neutral_face: | :smiley:      |       :smiley:|:neutral_face: |     :smiley:  | :neutral_face:  | :smiley:      |
 
 ## Sprint S3
