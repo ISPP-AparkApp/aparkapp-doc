@@ -40,8 +40,8 @@
 |  01/04/2022  |       -       |       -       | :smiley:      |   :smiley:    |       -       |    :smiley:   |       -       |       :smiley:       |       -       |       -       |       -       |       -       |       -       |       -       |
 |  02/04/2022  |       -       |       -       |       -       |       -       |       -       |    :smiley:   |       -       |    :smiley:   |       -       |       :smiley:       |       -       |    :smiley:   |       -       |       -       |
 |  03/04/2022  |       -       |       -       |  :smiley:     |       -       |       -       |    -          |       -       |    :smiley:   |       -       |       :neutral_face:       |       -       |    :smiley:   |       -       |      :smiley:       |
-|  04/04/2022  |       -       |       -       |  :smiley:     |      :smiley:    |       -       | :neutral_face:|       -       |       :worried:       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |
-|  05/04/2022  |       -       |       -       |  :smiley:     |    :smiley:    |       -       |    -          |       -       |       :fearful:      |       -       |       -       |       -       |       -       |       -       |       :smiley:       |
+|  04/04/2022  |       -       |       -       |  :smiley:     |      :smiley: |       -       | :neutral_face:|       -       |       :worried:       |       -       |       :smiley:       |       -       |       -       |       -       |       :smiley:       |
+|  05/04/2022  |       -       |       -       |  :smiley:     |    :smiley:    |       -       |    :smiley:          |       -       |       :fearful:      |       -       |       -       |       -       |       -       |       -       |       :smiley:       |
 |  06/04/2022  |       -       |       -       |       -       |       -       |       -       |    -          |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |
 
 ## Sprint S3
