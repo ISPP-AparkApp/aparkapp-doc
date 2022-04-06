@@ -42,7 +42,7 @@
 |  03/04/2022  |     :smiley:  |       -       |  :smiley:     |       -       |       -       |    -          |       -       |    :smiley:   |       -       |       :neutral_face:       |       -      |    :smiley:   |       :smiley:       |      :smiley:       |
 |  04/04/2022  |    :smiley:   | :neutral_face:|  :smiley:     |      :smiley: |       -       | :neutral_face:|       -       |       :worried:       |       -       |       :smiley:       |      :smiley:       |       -       |       -       |       :smiley:       |
 |  05/04/2022  |    :smiley:   | :neutral_face:|  :smiley:     |    :smiley:    |       -       |    :smiley:          |       -       |       :fearful:      |       -       |       -       |      :smiley:       |       -       |       :smiley:       |       :smiley:       |
-|  06/04/2022  |       -       |       -       |  :smiley:     |       -       |       -       |    -          |       -       |       -       |       -       |       -       |       :smiley:      |       -       |       :smiley:      |       -       |
+|  06/04/2022  |       -       |       -       |  :smiley:     |       -       |       -       |    -          |       -       |       -       |       -       |       -       |       :smiley:      |       -       |       :smiley:      |       :smiley:       |
 
 ## Sprint S3
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
