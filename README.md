@@ -47,5 +47,5 @@
 ## Sprint S3
 | Day           |  Jesusjbs  |  alejandropiuryp  |  alvechdel  |  antoniojss1  |  antoniope33  |  eveyugyug  |  ferherque  |  Javitoox  |  javivm17  |  JJosePP  |  JoseCarlosMorales  |  manmogvil  |  maribelrb22  |  NoSoyDani  |
 | ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  xx/xx/xxxx  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |
-
+|  07/04/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :smiley:      |       -       |
+|  08/04/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       -       |       :smiley:      |       -       |
