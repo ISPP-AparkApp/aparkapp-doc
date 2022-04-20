@@ -60,5 +60,5 @@
 |  17/04/2022  |       -       |       :smiley:       |       -       |       -       |       -       |       -       |       -       |:neutral_face: |       -       |       -       |       -       |       -       |       -       |     :smiley:       |
 |  18/04/2022  |       -       |       -       |       -       |       -       |       -       |       -       |       -       |      -        |       -       |       -       |    :smiley:   |       -       |       -       |     :neutral_face:       |
 |  19/04/2022  |    :smiley:   |       :smiley:       |       -       |       -       |       -       |       -       |   :smiley:    |      -        |       :worried:       |       -       |    :smiley:   | :neutral_face: |       :worried:       |     :smiley:      |
-|  20/04/2022  |    :smiley:   |       -       |       -       |       -       |       -       |       -       |   :smiley:    |     -         |       -       |       -       |        -      |:neutral_face: |       -       |     :neutral_face:       |
+|  20/04/2022  |    :smiley:   |       -       |       -       |       -       |       -       |       -       |   :smiley:    |     -         |       -       |       -       |        -      |:neutral_face: |       -       |     :smiley:       |
 
