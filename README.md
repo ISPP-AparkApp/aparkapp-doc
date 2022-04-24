@@ -61,4 +61,8 @@
 |  18/04/2022  |       -       |       -       |        :smiley:      |       -       |   :smiley:   |       -       |       -       |      -        |       -       |       -       |    :smiley:   |       -       |       -       |     :neutral_face:       |
 |  19/04/2022  |    :smiley:   |       :smiley:       |       -       |       -       | :smiley:  |       :smiley:       |   :smiley:    |      :neutral_face:        |       :worried:       |        :neutral_face:       |    :smiley:   | :neutral_face: |       :worried:       |     :smiley:      |
 |  20/04/2022  |    :smiley:   |       -       |       -       |       :smiley:      |   :smiley:   |       :smiley:       |   :smiley:    |     :worried:      |       -       |       :smiley:        |        :smiley:       |:neutral_face: |       -       |     :smiley:       |
+|  21/04/2022  |               |       -       |       -       |             |           |               |          |             |                |              |               |          |       :smiley:       |             |
+|  22/04/2022  |               |       -       |       -       |             |           |               |          |             |                |              |               |          |       :smiley:       |             |
+|  23/04/2022  |               |       -       |       -       |             |           |               |          |             |                |              |               |          |       :smiley:       |             |
+|  24/04/2022  |               |       -       |       -       |             |           |               |          |             |                |              |               |          |       :smiley:       |             |
 
